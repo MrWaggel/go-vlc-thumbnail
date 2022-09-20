@@ -8,4 +8,4 @@ This package uses CVLC (command line VLC) to create thumbnails or snapshots from
 - VLC installed on the host
 
 ## Usage
-See [this page](https://mrwaggel.be/pages/go-vlc-thumbnail).
+See [this page](https://mrwaggel.be/page/go-vlc-thumbnail).
